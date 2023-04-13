@@ -1,5 +1,5 @@
 ### Descrição do Projeto:
-Projeto desenvolvido na Formação Linux Fundamentals da Digital Inovation One (DIO) como primeiro projeto da formação e tem como objetivo criar um script em Shell que tenha como finalidade a criação de diretórios, grupos, usuários e determine as suas permissões em cada diretório criado.
+Projeto desenvolvido na Formação Linux Fundamentals da Digital Inovation One (DIO) como primeiro projeto da formação e tem como objetivo criar um script em Shell que tenha como finalidade a criação de diretórios, grupos, usuários e determinar as suas permissões em cada diretório criado.
 
 ### Tabela Demonstrativa:
 
